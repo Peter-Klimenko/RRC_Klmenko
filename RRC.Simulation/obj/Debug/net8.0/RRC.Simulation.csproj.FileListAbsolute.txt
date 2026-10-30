@@ -1,0 +1,26 @@
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.deps.json
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Abstractions.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Abstractions.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.csproj.AssemblyReference.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simu.DAFFE3B2.Up2Date
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\refint\RRC.Simulation.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\ref\RRC.Simulation.dll
+D:\Новая папка\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.deps.json
+D:\Новая папка\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.dll
+D:\Новая папка\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Simulation.pdb
+D:\Новая папка\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Abstractions.dll
+D:\Новая папка\RRCPublic-main\RRC.Simulation\bin\Debug\net8.0\RRC.Abstractions.pdb
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.csproj.AssemblyReference.cache
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.csproj.CoreCompileInputs.cache
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simu.DAFFE3B2.Up2Date
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.dll
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\refint\RRC.Simulation.dll
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\RRC.Simulation.pdb
+D:\Новая папка\RRCPublic-main\RRC.Simulation\obj\Debug\net8.0\ref\RRC.Simulation.dll

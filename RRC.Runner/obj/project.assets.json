@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "RRC.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RRC.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RRC.Abstractions.dll": {}
+        }
+      },
+      "RRC.Simulation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RRC.Simulation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RRC.Simulation.dll": {}
+        }
+      },
+      "RRC.Simulation.Public/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0",
+          "RRC.Simulation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RRC.Simulation.Public.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RRC.Simulation.Public.dll": {}
+        }
+      },
+      "RRC.Student/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RRC.Student.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RRC.Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RRC.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../RRC.Abstractions/RRC.Abstractions.csproj",
+      "msbuildProject": "../RRC.Abstractions/RRC.Abstractions.csproj"
+    },
+    "RRC.Simulation/1.0.0": {
+      "type": "project",
+      "path": "../RRC.Simulation/RRC.Simulation.csproj",
+      "msbuildProject": "../RRC.Simulation/RRC.Simulation.csproj"
+    },
+    "RRC.Simulation.Public/1.0.0": {
+      "type": "project",
+      "path": "../RRC.Simulation.Public/RRC.Simulation.Public.csproj",
+      "msbuildProject": "../RRC.Simulation.Public/RRC.Simulation.Public.csproj"
+    },
+    "RRC.Student/1.0.0": {
+      "type": "project",
+      "path": "../RRC.Student/RRC.Student.csproj",
+      "msbuildProject": "../RRC.Student/RRC.Student.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "RRC.Abstractions >= 1.0.0",
+      "RRC.Simulation >= 1.0.0",
+      "RRC.Simulation.Public >= 1.0.0",
+      "RRC.Student >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\petru\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\for r\\RRCPublic-main\\RRC.Runner\\RRC.Runner.csproj",
+      "projectName": "RRC.Runner",
+      "projectPath": "C:\\for r\\RRCPublic-main\\RRC.Runner\\RRC.Runner.csproj",
+      "packagesPath": "C:\\Users\\petru\\.nuget\\packages\\",
+      "outputPath": "C:\\for r\\RRCPublic-main\\RRC.Runner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\petru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\for r\\RRCPublic-main\\RRC.Abstractions\\RRC.Abstractions.csproj": {
+              "projectPath": "C:\\for r\\RRCPublic-main\\RRC.Abstractions\\RRC.Abstractions.csproj"
+            },
+            "C:\\for r\\RRCPublic-main\\RRC.Simulation.Public\\RRC.Simulation.Public.csproj": {
+              "projectPath": "C:\\for r\\RRCPublic-main\\RRC.Simulation.Public\\RRC.Simulation.Public.csproj"
+            },
+            "C:\\for r\\RRCPublic-main\\RRC.Simulation\\RRC.Simulation.csproj": {
+              "projectPath": "C:\\for r\\RRCPublic-main\\RRC.Simulation\\RRC.Simulation.csproj"
+            },
+            "C:\\for r\\RRCPublic-main\\RRC.Student\\RRC.Student.csproj": {
+              "projectPath": "C:\\for r\\RRCPublic-main\\RRC.Student\\RRC.Student.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

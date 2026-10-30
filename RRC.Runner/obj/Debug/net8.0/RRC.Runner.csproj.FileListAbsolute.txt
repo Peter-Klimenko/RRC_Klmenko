@@ -1,0 +1,48 @@
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.AssemblyReference.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.AssemblyInfoInputs.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.AssemblyInfo.cs
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.CoreCompileInputs.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.exe
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.deps.json
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.runtimeconfig.json
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Abstractions.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.Public.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Student.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Abstractions.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.Public.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Student.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.Up2Date
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\refint\RRC.Runner.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.genruntimeconfig.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\ref\RRC.Runner.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.exe
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.deps.json
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.runtimeconfig.json
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Runner.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Abstractions.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.Public.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Student.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Abstractions.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Simulation.Public.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\bin\Debug\net8.0\RRC.Student.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.AssemblyReference.cache
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.AssemblyInfoInputs.cache
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.AssemblyInfo.cs
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.CoreCompileInputs.cache
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.csproj.Up2Date
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\refint\RRC.Runner.dll
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.pdb
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\RRC.Runner.genruntimeconfig.cache
+D:\Новая папка\RRCPublic-main\RRC.Runner\obj\Debug\net8.0\ref\RRC.Runner.dll

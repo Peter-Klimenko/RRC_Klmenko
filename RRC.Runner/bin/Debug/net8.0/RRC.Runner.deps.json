@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RRC.Runner/1.0.0": {
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0",
+          "RRC.Simulation": "1.0.0",
+          "RRC.Simulation.Public": "1.0.0",
+          "RRC.Student": "1.0.0"
+        },
+        "runtime": {
+          "RRC.Runner.dll": {}
+        }
+      },
+      "RRC.Abstractions/1.0.0": {
+        "runtime": {
+          "RRC.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RRC.Simulation/1.0.0": {
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "RRC.Simulation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RRC.Simulation.Public/1.0.0": {
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0",
+          "RRC.Simulation": "1.0.0"
+        },
+        "runtime": {
+          "RRC.Simulation.Public.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "RRC.Student/1.0.0": {
+        "dependencies": {
+          "RRC.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "RRC.Student.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RRC.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRC.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRC.Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRC.Simulation.Public/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RRC.Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
