@@ -1,0 +1,39 @@
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.AssemblyReference.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.CoreCompileInputs.cache
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.deps.json
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Stud.E08DBF06.Up2Date
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\refint\RRC.Student.dll
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.pdb
+C:\Users\Petrunyauskas\Desktop\универ\obloko\RRCPublic-main\RRC.Student\obj\Debug\net8.0\ref\RRC.Student.dll
+D:\Новая папка\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.deps.json
+D:\Новая папка\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.dll
+D:\Новая папка\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.pdb
+D:\Новая папка\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.dll
+D:\Новая папка\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.pdb
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.AssemblyReference.cache
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.CoreCompileInputs.cache
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Stud.E08DBF06.Up2Date
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.dll
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\refint\RRC.Student.dll
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.pdb
+D:\Новая папка\RRCPublic-main\RRC.Student\obj\Debug\net8.0\ref\RRC.Student.dll
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.AssemblyReference.cache
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.csproj.CoreCompileInputs.cache
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.dll
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\refint\RRC.Student.dll
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Student.pdb
+C:\for r\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.deps.json
+C:\for r\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.dll
+C:\for r\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Student.pdb
+C:\for r\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.dll
+C:\for r\RRCPublic-main\RRC.Student\bin\Debug\net8.0\RRC.Abstractions.pdb
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\RRC.Stud.E08DBF06.Up2Date
+C:\for r\RRCPublic-main\RRC.Student\obj\Debug\net8.0\ref\RRC.Student.dll
