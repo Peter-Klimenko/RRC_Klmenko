@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using RRC.Abstractions;
 
 namespace RRC.Student
@@ -10,7 +10,7 @@ namespace RRC.Student
         // Основные лимиты
         private const int MaxAttempts = 3;
         private const double MinTimeoutMs = 200.0;
-        private const double MaxTimeoutMs = 6000.0;
+        private const double MaxTimeoutMs = 60000.0;
 
         // Статистика сервера (EMA + Отклонение)
         private double _emaDurationMs = 350.0;
@@ -65,14 +65,27 @@ namespace RRC.Student
 
                 // Проверяем, был ли это таймаут (обычно RequestOutcome.Timeout)
                 bool isTimeout = observation.Outcome == RequestOutcome.Timeout;
-
+                int currentMaxAttempts = MaxAttempts;
                 if (isTimeout)
                 {
                     _consecutiveTimeouts++;
                 }
-
+                if (_consecutiveTimeouts > 4)
+                {
+                    // Сервер «горит», отключаем ретраи вообще для новых сбоев
+                    currentMaxAttempts = 1;
+                }
+                else if (_consecutiveTimeouts > 2)
+                {
+                    // Ограничиваемся одной повторной попыткой вместо трех
+                    currentMaxAttempts = 2;
+                }
+                if (observation.Attempt >= currentMaxAttempts)
+                {
+                    return RetryDecision.NoRetry();
+                }
                 // 3. РАСЧЕТ ЗАДЕРЖКИ (BACKOFF)
-                double baseDelayMs = isTimeout ? 300.0 : 150.0;
+                double baseDelayMs = isTimeout ? 400.0 : 150.0;
 
                 // Экспоненциальный рост в зависимости от номера попытки
                 baseDelayMs *= Math.Pow(2.2, observation.Attempt - 1);
@@ -87,7 +100,7 @@ namespace RRC.Student
                 double jitter = 0.5 + random.NextDouble();
                 double finalDelayMs = baseDelayMs * jitter;
 
-                finalDelayMs = Math.Clamp(finalDelayMs, 50.0, 4000.0);
+                finalDelayMs = Math.Clamp(finalDelayMs, 50.0, 40000.0);
 
                 return RetryDecision.RetryAfter(TimeSpan.FromMilliseconds(finalDelayMs));
             }
